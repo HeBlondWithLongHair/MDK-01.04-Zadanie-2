@@ -12,7 +12,7 @@ public class Main
 
         Magazine.printMagazines(booksAndMagazines);
         Book.printBooks(booksAndMagazines);
-        
+
     }
 
 }
